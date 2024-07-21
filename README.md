@@ -17,7 +17,7 @@
 
 - [Strategic Go Game Development]()</br>
 
-- [Tents and Trees Game Logic Hack]()</br>
+- [Tents and Trees Game Logic Hack](https://github.com/diiogofer/TentsAndTreesSolver/)</br>
 
 - [Keylogger - Keystroke Monitoring Tool]()</br>
 
