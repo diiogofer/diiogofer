@@ -1,7 +1,5 @@
 ### Hello! I'm Diogo Fernandes 🤓
 
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diiogofer&show_icons=true&theme=radical)
-
 ### Most Used Technologies </br>
 <div style="display: incline_block"><br/>
     <img align=center alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
