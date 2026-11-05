@@ -28,7 +28,7 @@ text,tspan{white-space:pre;}
 <text x="15" y="430" fill="#24292f">=%%@@@@@@@@@%@%@@@@%@%@@@@@@@@@%%=</text>
 <text x="374" y="30" fill="#24292f"><tspan class="key">diiogofer@github</tspan><tspan class="cc"> ———————————————————————————————————————————</tspan></text>
 <text x="374" y="50" fill="#24292f"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="text">:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Windows 11, Ubuntu, Kali Linux</tspan></text>
-<text x="374" y="70" fill="#24292f"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="text">:</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">21 years, 2 months, 19 days</tspan></text>
+<text x="374" y="70" fill="#24292f"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="text">:</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">21 years, 2 months, 20 days</tspan></text>
 <text x="374" y="90" fill="#24292f"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="text">:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">KTH Royal Institute of Technology</tspan></text>
 <text x="374" y="110" fill="#24292f"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="text">:</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">Paranoia-Driven Development</tspan></text>
 <text x="374" y="130" fill="#24292f"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="text">:</tspan><tspan class="cc"> .............................................. </tspan><tspan class="value">VSCode</tspan></text>
